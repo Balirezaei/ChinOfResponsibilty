@@ -1,3 +1,6 @@
+![.NET Desktop Build Status](https://github.com/Balirezaei/ChinOfResponsibilty/actions/workflows/dotnet-desktop.yml/badge.svg?branch=master)
+
+
 # Chain of Responsibility Pattern - C#
 
 This project demonstrates the **Chain of Responsibility** design pattern implemented in C#.  
