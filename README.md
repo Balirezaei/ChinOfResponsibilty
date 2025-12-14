@@ -22,7 +22,7 @@ It allows requests to pass through a chain of handlers dynamically.
   │
   ├── /ChainFramework                    # abstract Handler
   ├── /CommonHandler                     # Such as NullHandler
-  ├── /CustomHandler                     # Unit tests
+  ├── /CustomHandler                     
   /Tests
   |
   └── ChainOfResponsibiltyTests.cs       # Unit tests
